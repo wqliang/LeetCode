@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 	cout << "test";
-	//asdfas
+	//test
 	system("pause");
 	return 0;
 }
