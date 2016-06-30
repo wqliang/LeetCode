@@ -65,6 +65,7 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="338_counting_bits.h" />
     <ClInclude Include="342_Power_of_Four.h" />
     <ClInclude Include="344_reverse_string.h" />
     <ClInclude Include="Solution.h" />

@@ -29,5 +29,8 @@
     <ClInclude Include="344_reverse_string.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="338_counting_bits.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
