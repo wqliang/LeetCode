@@ -1,7 +1,7 @@
-#ifndef  __SOLUTION_H__
-#define  __SOLUTION_H__
+#ifndef  __SOLUTION344_H__
+#define  __SOLUTION344_H__
 #include"Solution.h"
-#endif
+
 #include<string>
 
 class Solution344 : public Solution {
@@ -30,3 +30,5 @@ void Solution344::run(){
 	cout << this->reverseString("1234567890") << endl;
 	cout << this->reverseString("") << endl;
 }
+
+#endif

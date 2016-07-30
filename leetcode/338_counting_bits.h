@@ -1,7 +1,7 @@
-#ifndef  __SOLUTION_H__
-#define  __SOLUTION_H__
+#ifndef  __SOLUTION338_H__
+#define  __SOLUTION338_H__
 #include"Solution.h"
-#endif
+
 #include<vector>
 
 class Solution338 : public Solution{
@@ -33,3 +33,5 @@ void Solution338::run(){
 		}
 	}
 }
+
+#endif

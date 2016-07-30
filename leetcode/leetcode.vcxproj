@@ -65,10 +65,19 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="215_Kth_Largest_Element_in_an_Array.h" />
+    <ClInclude Include="300_longest_increasing_subsequence.h" />
+    <ClInclude Include="334_increasing_triplet_subsequence.h" />
     <ClInclude Include="338_counting_bits.h" />
     <ClInclude Include="342_Power_of_Four.h" />
+    <ClInclude Include="343_integer_break.h" />
     <ClInclude Include="344_reverse_string.h" />
+    <ClInclude Include="347_Top_K_Frequent_Elements.h" />
+    <ClInclude Include="377_Combination_Sum_IV.h" />
+    <ClInclude Include="39_Combination_Sum.h" />
+    <ClInclude Include="40_Combination_Sum_II.h" />
     <ClInclude Include="Solution.h" />
+    <ClInclude Include="solution_header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

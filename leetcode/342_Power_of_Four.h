@@ -1,7 +1,7 @@
-#ifndef  __SOLUTION_H__
-#define  __SOLUTION_H__
+#ifndef  __SOLUTION342_H__
+#define  __SOLUTION342_H__
 #include"Solution.h"
-#endif
+
 
 /*思路解析：
 对于4的幂，其二进制表示中，只有1个位为1，且是在奇数位置。
@@ -41,3 +41,5 @@ void Solution342::run(){
 			cout << num << " is not power of four.\n";
 	}
 }
+
+#endif
