@@ -11,6 +11,8 @@ void _solution_table(int no, void* sptr){
 }
 
 void _init(){
+	_solution_table(1, new Solution1());
+	_solution_table(3, new Solution3());
 	_solution_table(39, new Solution39());
 	_solution_table(40, new Solution40());
 	_solution_table(215, new Solution215());
@@ -21,11 +23,12 @@ void _init(){
 	_solution_table(344, new Solution344());
 	_solution_table(347, new Solution347());
 	_solution_table(377, new Solution377());
+	//_solution_table(384, new Solution384());
 }
 
 int main(){
 	_init();
-	int no = 40;
+	int no = 384;
 	Solution* s = reinterpret_cast<Solution*>(solution_table[no]);
 	s->run();
 	

@@ -59,5 +59,14 @@
     <ClInclude Include="40_Combination_Sum_II.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="1_Two_Sum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="3_Longest_Substring_Without_Repeating_Characters.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="384_Shuffle_an_Array.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
